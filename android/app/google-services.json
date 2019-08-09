@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631024290676",
+    "firebase_url": "https://actionify-169511.firebaseio.com",
+    "project_id": "actionify-169511",
+    "storage_bucket": "actionify-169511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631024290676:android:8363eb46dba0c748",
+        "android_client_info": {
+          "package_name": "com.gurukalam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631024290676-hoolkknm13sadrlagit4aggtmhb6t1ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_vQrRBOtSDcZ1d6lJk-NA_31S-E9ra0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631024290676-gvr9oj7fsoih30egleboc9p3tuqilvq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
