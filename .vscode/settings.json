@@ -21,5 +21,6 @@
     "window.zoomLevel": 1,
     "editor.fontSize": 13,
     "editor.tabSize": 2,
-    "javascript.suggest.autoImports": false
+    "javascript.suggest.autoImports": false,
+    "flow.enabled": false
   }

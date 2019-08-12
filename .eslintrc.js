@@ -21,7 +21,7 @@ module.exports = {
     "codeFrame": true,
     "ecmaVersion": 6,
     "ecmaFeatures": {
-      "jsx": true
+      "js" : true
     }
   },
   rules: {
@@ -60,6 +60,8 @@ module.exports = {
     "import/extensions": [1, "never", {
       "svg": "always"
     }],
+    "react/jsx-filename-extension": [0],
+    "import/extensions": "off",
     "import/no-extraneous-dependencies": [
       "error",
       {
